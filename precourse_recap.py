@@ -1,10 +1,13 @@
 #! Python3
 
-# Setting variables
+# Setting variables. These are for homework purposes only.
 
 name = 'Steven'
 age = 39
 favourite_cheese = 'cheddar'
+
+# Create a variable to say what my age would be if I was twice my age. This serves no purpose.
+twice_age = age + age
 
 # Defining a function to ask the user their name, age, and favourite cheese.
 
